@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Runner output directories
+run_*/
+
+# Logs
+*.log
