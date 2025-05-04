@@ -68,7 +68,7 @@ python plot_run.py run_YYYYMMDD-HHMMSS -o traj.png
 
 ---
 
-## How **F** is wired
+## How **F** for W-MSR is wired
 
 ```
 runner.py  --F 2
