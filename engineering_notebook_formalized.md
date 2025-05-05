@@ -152,7 +152,7 @@ Runner duties:
 1. Build / load topology (`topo.py`).  
 2. Choose contiguous free ports.  
 3. Assign per‑agent random initial values `[init_min, init_max]`.  
-4. Write `runfile.json` (≈ single‑source‑of‑truth).  
+4. Write `runfile.json`.  
 5. Spawn `core/agent.py` once per node.  
 6. Tee each agent’s stdout→`agent_<ID>.csv`.  
 7. Graceful shutdown on Ctrl‑C.
@@ -187,6 +187,3 @@ The run‑file and logs make experiments reproducible.
 | Fault injection layer | Drop / delay messages to empirically validate _F_-resilience. |
 
 ---
-
-*End of notebook.*  
-Generated 2025‑05‑04
