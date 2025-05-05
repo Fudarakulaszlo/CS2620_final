@@ -143,7 +143,7 @@ class WMSR(Algorithm):
 ```bash
 # 8‑node, avg deg ≈3, slot 100 ms, F = 2
 python runner.py --random 8 3 --algo wmsr \
-                 --slot 0.10 --holdoff 30 \
+                 --slot 0.10 --holdoff 60 \
                  --rounds 500 --F 2 --seed 7
 ```
 
