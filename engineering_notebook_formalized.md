@@ -1,6 +1,6 @@
 # Distributed Consensus Framework – Engineering Notebook  
 *CS 2620 Final Project*  
-Aron Vekassy & Collaborators  
+Karen Li & Áron Vékássy
 May 2025
 
 ---
