@@ -73,7 +73,7 @@ Key goals:
 * **runner** writes the run‑file, spawns agents, tees logs.  
 * **agent** binds one PUB and one SUB, loops over time‑slots.  
 * **algorithm plug‑in** sees only `inbox: {id→value}`.  
-* **transport** hides ZeroMQ specifics; can be replaced by UDP later.
+* **transport** hides ZeroMQ specifics; can be replaced later.
 
 ---
 
