@@ -113,6 +113,7 @@ Edge‑case maths lives in `sync.timeslot.SlotConfig` and is fuzz‑tested.
 This setup is not completely unrealistic, since robots often have access to GPS clocks.
 We leave the time slot length tunable, to account for heterogeneous robot teams,
 or communication delays.
+
 ---
 
 ## 6 · Algorithm Plug‑in Layer
